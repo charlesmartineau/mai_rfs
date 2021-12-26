@@ -10,4 +10,4 @@ We also include the 3-day average (MAI3) and the 3-day detrended MAI-Pre (dMAI3)
 
 If you use this data, please cite our study accordingly. 
 
-![](figure-1_unemployment_mai.png)
+![](figure-1_unemployment_mai.pdf)
