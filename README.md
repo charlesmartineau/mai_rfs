@@ -1,6 +1,6 @@
-# Data for Macroeconomic Attention and Risk Premia
+# Data for Macroeconomic Attention and Announcement Risk Premia
 
-We provide the daily and monthly monthly macroeconomic attention indices for the New York Times and Wall Street Journal used in Fisher, Martineau, and Sheng (2021) "Macroeconomic Attention and Risk Premia" [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703978).
+We provide the daily and monthly monthly macroeconomic attention indices for the New York Times and Wall Street Journal used in Fisher, Martineau, and Sheng (2021) "Macroeconomic Attention and Announcement Risk Premia" [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703978).
 
 Columns ending with "_ni" and "_wi" corresponds to NYT and WSJ, respectively, and those without corresponds to the composite index. 
 
